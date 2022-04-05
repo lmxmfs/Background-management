@@ -1,2 +1,0 @@
-# Background-management
-Background-management
